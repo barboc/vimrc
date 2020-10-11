@@ -1,4 +1,6 @@
 "VIMRC FILE**************************************************************** 
+"
+"VIM FILE FOR WINDOWS
 "**************************************************************************
 set nocompatible    			" use vim defaults, not vi
 filetype plugin on              " Turn on plugin capability
